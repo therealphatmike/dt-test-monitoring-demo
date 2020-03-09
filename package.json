@@ -1,0 +1,23 @@
+{
+  "name": "dt-test-monitoring-demo",
+  "version": "1.0.0",
+  "description": "a trivial demo app for demoing dt test monitoring and jenkins performance evaluation",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node scripts/start.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealphatmike/dt-test-monitoring-demo.git"
+  },
+  "author": "therealphatmike (T Michael Smith)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealphatmike/dt-test-monitoring-demo/issues"
+  },
+  "homepage": "https://github.com/therealphatmike/dt-test-monitoring-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
